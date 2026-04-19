@@ -1,4 +1,4 @@
-# MENG'S VPN · 免费节点/节点池
+# MENG'S VPN · 免费节点/节点池 FREE PROXY
 
 <p align="center">
   <a href="https://love.zshabai.top/"><b>🌍 访问站点</b></a>
