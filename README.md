@@ -1,81 +1,66 @@
-# MENG'S VPN · 免费节点/节点池 FREE PROXY
+# MENG Proxy | 免费VPN 免费节点、节点池与订阅更新
 
 <p align="center">
-  <a href="https://love.zshabai.top/"><b>🌍 访问站点</b></a>
+  <a href="https://love.zshabai.top/"><b>🌍 立即访问官网</b></a>
 </p>
 
 <p align="center">
-  🚀 晚高峰可用 · 📺 4K 流媒体 · 🔗 一键订阅 · 🌐 持续更新
+  免费节点 · V2ray· Clash · Singbox· 节点池 · 主订阅 · 持续更新 · 一键导入 · 高峰期可用
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-brightgreen">
-  <img src="https://img.shields.io/badge/Free-Yes-blue">
-  <img src="https://img.shields.io/badge/Streaming-4K-orange">
-  <img src="https://img.shields.io/badge/Updated-Daily-purple">
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen" alt="Status Online">
+  <img src="https://img.shields.io/badge/Free-Yes-blue" alt="Free Yes">
+  <img src="https://img.shields.io/badge/Subscription-Available-orange" alt="Subscription Available">
+  <img src="https://img.shields.io/badge/Updated-Daily-purple" alt="Updated Daily">
 </p>
 
 ---
 
-## ✨ 项目简介
+## 项目简介
 
-**MENG 免费节点** 是一个专注于提供免费节点的项目，  
-目标是提供一个 **简单、稳定、可持续使用** 的节点获取方式。
+**MENG Proxy** 是一个面向日常使用的免费节点与订阅聚合项目，提供 **主订阅、节点池和在线更新** 等入口，方便用户快速获取可用线路。页面强调简洁、直达和持续维护，适合需要稳定订阅入口的访问者。
 
-> ⚡ 无需复杂操作，复制订阅即可使用  
-> ⚡ 节点池动态更新，减少失效困扰  
-> ⚡ 针对晚高峰做优化，尽量保证体验
+**适合搜索的关键词：** 免费节点、节点池、订阅地址、代理订阅、Clash 订阅、V2Ray 节点、Shadowrocket 订阅、免费代理、在线更新、节点分享。
 
 ---
 
-## 🚀 在线体验
+## 核心功能
 
-**主站入口：**  
-https://love.zshabai.top/
-
----
-
-## 🧩 核心功能
-
-### 主订阅（推荐）
-- 一键导入客户端
-- 自动更新节点
+### 主订阅
+- 一键复制与导入
+- 自动同步最新节点
 - 适合长期使用
 
 ### 节点池
 - 多节点可选
-- 支持手动筛选最优线路
-- 避免单点拥堵
+- 支持手动切换线路
+- 降低单点失效影响
 
-### 晚高峰优化
-- 尽量保证高峰期可用
-- 提升视频与网页加载体验
+### 在线更新
+- 节点持续维护
+- 订阅内容实时同步
+- 减少过期与失效问题
 
-### 流媒体支持
-- 支持高清视频播放
-- 优化加载速度，适合 4K 场景
-
----
-
-## 📦 使用方法
-
-### 方法一：使用主订阅
-1. 打开网站
-2. 复制主订阅链接
-3. 导入客户端
-4. 点击更新即可使用
-
-### 方法二：从节点池手动选择
-1. 打开节点池页面
-2. 挑选可用节点
-3. 手动添加到客户端
-4. 按需切换线路
+### 体验优化
+- 页面结构清晰
+- 入口集中，便于快速访问
+- 适合手机和电脑浏览
 
 ---
 
-## 🖥️ 支持客户端
+## 快速开始
 
-常见支持订阅的客户端均可使用，例如：
+1. 打开官网：<https://love.zshabai.top/>
+2. 复制主订阅或选择节点池
+3. 导入到支持订阅的客户端
+4. 更新后即可使用
+
+---
+
+## 支持的客户端
+
+常见订阅客户端均可使用，例如：
 
 - Clash / Clash Meta
 - Shadowrocket
@@ -84,65 +69,38 @@ https://love.zshabai.top/
 
 ---
 
-## 📊 项目特点
+## 为什么选择这里
 
-- ✅ 免费使用
-- ✅ 持续维护
-- ✅ 简单易上手
-- ✅ 无需注册
-- ✅ 多节点支持
-
----
-
-## ⚠️ 使用说明
-
-- 本项目仅供学习与技术交流使用
-- 节点稳定性受网络环境影响
-- 请勿用于违规用途
-- 建议定期更新订阅获取最新节点
+- 入口统一，找起来更快
+- 订阅与节点池并存，使用更灵活
+- 页面更新频率高，减少手动整理成本
+- 适合想快速获取可用订阅的人群
 
 ---
 
-## 📈 为什么选择这个项目？
+## 使用说明
 
-相比零散节点来源：
-
-- 单节点容易失效
-- 手动维护麻烦
-- 高峰期体验差
-
-本项目提供：
-
-- 统一订阅入口
-- 自动更新机制
-- 节点池备用方案
-- 更稳定的整体体验
+- 请保持订阅链接及时更新
+- 节点可用性会受网络环境影响
+- 建议按需切换线路，以获得更好的体验
+- 请遵守所在地法律法规及平台规则
 
 ---
 
-## 🔄 更新频率
+## 更新状态
 
 - 节点：持续更新
-- 订阅：实时同步
+- 订阅：持续同步
+- 页面：长期维护
 
 ---
 
-## ❤️ 支持项目
+## 站点地址
 
-如果这个项目对你有帮助，可以：
-
-- Star 本仓库
-- 分享给更多人
-- 提出建议或反馈
-
----
-
-## 📌 项目地址
-
-https://love.zshabai.top/
+- 官网：<https://love.zshabai.top/>
 
 ---
 
 <p align="center">
-  Made with ❤️ | Free & Open Network Access
+  MENG Proxy · Free Node Access · Subscription Hub
 </p>
